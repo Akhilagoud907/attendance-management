@@ -1,6 +1,9 @@
 Name:AKHILA
+
 Domain:Attendance management system using face recognition
+
 Mentor:Aditya
+
 Description:
 The **Attendance Management System using Face Recognition** automates the process of marking attendance by utilizing facial recognition technology. This system helps educational institutions, workplaces, and other organizations efficiently track attendance without the need for manual intervention. By using machine learning and computer vision techniques, the system identifies individuals through their facial features, ensuring accurate and real-time attendance recording.
 The system works by enrolling individuals (such as students or employees) through facial image capture, which is then stored in a database. When the person enters the attendance zone, the system uses a camera to detect and analyze their face. It then compares the captured face to the stored data. If a match is found, their attendance is automatically logged, along with the timestamp. This process eliminates the risk of proxy attendance, as only the authorized individual can be recognized.
